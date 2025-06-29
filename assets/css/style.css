@@ -666,10 +666,10 @@ font-size: 6rem;
     font-family: 'Pacifico', cursive;
     color: #fff;
     line-height: 6rem;
-    margin:0px 0px 60px 0px;
+    margin:0px 0px 30px 0px;
 }	
 .main_slider_content{
-	padding:250px 0px 200px 0px;
+	padding:200px 0px 100px 0px;
 	width:70%;
 	margin:0 auto;
 	color:#fff;
@@ -721,7 +721,7 @@ font-size: 6rem;
 	display:inline-block;
 }
 .main_features_content{
-	background:url(../images/feature.jpg) right center no-repeat;
+	background:url(../images/marque_pyrenees.png) right center no-repeat;
 	padding:40px;
 	overflow:hidden;
 }
@@ -733,6 +733,7 @@ font-size: 6rem;
 }
 
 /* Portfolio Section css */
+
 .portfolio{
 	background:url(../images/portfoliobg.jpg) center top no-repeat;
 	-moz-background-size: cover;
@@ -806,7 +807,8 @@ font-size: 6rem;
 
 
 /*Amazing Deliceas Section css */
-.ourPakeg .main_pakeg_content .head_title h3{
+
+/* .ourPakeg .main_pakeg_content .head_title h3{
 	color:#fff;
 	
 }
@@ -860,11 +862,11 @@ font-size: 6rem;
     margin-top: 20px;
     border-radius: 50px;
 	
-}
+} */
 
 /* Mobail Apps Section css */
 
-.mobailapps{
+/* .mobailapps{
 	background:url(../images/cover\ 3.jpg) top center no-repeat scroll;
 	-moz-background-size: cover;
 	-webkit-background-size: cover;
@@ -913,11 +915,11 @@ font-size: 6rem;
 }
 .single_monail_apps_text a img{
 	max-width:90%;
-}
+} */
 
 /* Footer Section CSS */
 .footer_widget{
-	background:url(../images/footerbg.jpg) center top no-repeat scroll;
+	background: rgba(0, 0, 0, .5) center top no-repeat scroll;
 	-moz-background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
