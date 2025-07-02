@@ -866,7 +866,7 @@ font-size: 6rem;
 
 /* Mobail Apps Section css */
 
-/* .mobailapps{
+.mobailapps{
 	background:url(../images/cover\ 3.jpg) top center no-repeat scroll;
 	-moz-background-size: cover;
 	-webkit-background-size: cover;
@@ -915,7 +915,7 @@ font-size: 6rem;
 }
 .single_monail_apps_text a img{
 	max-width:90%;
-} */
+}
 
 /* Footer Section CSS */
 .footer_widget{
